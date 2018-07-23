@@ -38,7 +38,7 @@ You need to create a iam role and policy to attach on your aws ec2 instance.
 
 `s3:PutObject`
 
-This module should be used with rancher 2.0 [recurring-snapshots](https://rancher.com/docs/rancher/v2.x/en/backups/backups/ha-backups/#option-a-recurring-snapshots)
+This module should be used with rancher 2.0 [recurring snapshots](https://rancher.com/docs/rancher/v2.x/en/backups/backups/ha-backups/#option-a-recurring-snapshots)
 
 ## How to use
 
